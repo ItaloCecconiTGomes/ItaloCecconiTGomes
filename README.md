@@ -54,7 +54,10 @@ Hello, my name is Ítalo Cecconi! I'm studying Software Engineering at the Unive
 </div>
 
 ## Be part of my network:
+<div>
+ <a href="https://www.linkedin.com/in/italocecconi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+</div>
   
 
 
