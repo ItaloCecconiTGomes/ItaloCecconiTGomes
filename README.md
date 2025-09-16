@@ -1,9 +1,9 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
  Olá, meu nome é Ítalo Cecconi! Estou estudando Engenharia de Software na Universidade Católica do Salvador. 👨‍🎓
  
- - Sou de Salvador, Bahia e gosto muito de ouvir música (especialmente rock 🎸), jogar video-games 🎮 e sou apaixonado por esportes americanos (principalmente basquete 🏀 e futebol americano 🏈)
- - Estudo Java, JavaScript, HTML, CSS e Flutter para desenvolvimento de software. Estou aprofundando meus conhecimentos para desenvolver projetos com meus colegas de faculdade 👨‍💻
- - Atualmente estou a procura de uma oportunidade como estagiário para consolidar meus conhecimentos e iniciar minha carreira no mundo da tecnologia 📈
+ - Sou de Salvador, Bahia e gosto muito de ouvir música (especialmente rock 🎸), jogar video-games 🎮 e sou apaixonado por esportes americanos (principalmente basquete 🏀 e futebol americano 🏈).
+ - Estudo Java, JavaScript, HTML, CSS e Flutter para desenvolvimento de software. Estou aprofundando meus conhecimentos para desenvolver projetos com meus colegas de faculdade. 👨‍💻
+ - Atualmente estou a procura de uma oportunidade como estagiário para consolidar meus conhecimentos e iniciar minha carreira no mundo da tecnologia. 📈
 
 ## Tecnologias e ferramentas:
 <div >
@@ -27,6 +27,35 @@
 <div>
   <a href="[https://www.linkedin.com/in/italocecconi](https://www.linkedin.com/in/italocecconi/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+# Welcome to my GitHub profile! 👋
+Hello, my name is Ítalo Cecconi! I'm studying Software Engineering at the Universidade Católica do Salvador. 👨‍🎓
+
+- I'm from Salvador, Bahia and I really like to listen to music (especially rock 🎸), I like to play video-games 🎮 and I love american sports(mainly basketball 🏀 and football 🏈).
+- I'm studying Java, JavaScript, HTML, CSS and Flutter for software development. I'm studying deepier to develop projects with my college mates. 👨‍💻
+- Nowadays I'm looking for an internship opportunity to consolidate my knowledge and to strat my carrer in the tech world. 📈
+
+## Technologies and tools:
+<div >
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+          
+</div>
+
+## Be part of my network:
+
+  
 
 
  
