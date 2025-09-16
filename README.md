@@ -25,7 +25,8 @@
 
 ## Faça parte da minha rede:
 <div>
-  <a href="[https://www.linkedin.com/in/italocecconi](https://www.linkedin.com/in/italocecconi/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/italocecconi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
 
 # Welcome to my GitHub profile! 👋
